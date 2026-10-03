@@ -1,0 +1,10 @@
+{
+  "name": "LÉO - Amiguinho Digital Luminoso",
+  "description": "Interface imersiva e minimalista de conversa por voz com LÉO, um pequeno ser digital de luz com expressões dinâmicas, voz e presença afetuosa.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
